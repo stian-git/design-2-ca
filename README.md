@@ -2,7 +2,7 @@
 
 ![image](https://tekniskpotet.no/img/slil-ski-screenshot.jpg)
 
-This is just a design mockup for a sports club.
+This is just a design mockup for a sports club and not a functional website.
 
 # Table of Contents
 
